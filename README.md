@@ -7,7 +7,7 @@
 ## Usage
 bash uwulang.sh [inupt file]
 
-## Syntax (and Brainfuck equivilants)
+## Syntax (and Brainfuck equivalents)
 #### All instructions must be seperated by spaces
 
 `uwu` (+)
