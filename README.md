@@ -5,7 +5,7 @@
 </br>
 
 ## Usage
-bash uwulang.sh [inupt file]
+bash uwulang.sh [input file]
 
 ## Syntax (and Brainfuck equivalents)
 #### All instructions must be seperated by spaces
@@ -25,11 +25,11 @@ bash uwulang.sh [inupt file]
 `(CHAR)` (Prints the character in the parentheses)
 
 
-## Character outputing
+## Character output
 uwuLang has an added feature over Brainfuck, that being the ability to output individual characters without having to do math with ascii tables and whatnot.
 
 To do this just simply put a single character in brackets, like so:
 `(a)`
 
-You can output a string of characters by putting multiple character in brackets next to eachother:
+You can output a string of characters by putting multiple character in brackets next to each other:
 `(u)(w)(u)`
