@@ -1,6 +1,6 @@
 # uwuLang
-#### This programming language requires Python 3 to operate
-#### It also needs to run in a Linux environnmet, although you can still run it on Windows using the Linux Subsystem.
+#### This programming language requires Python 3 to be installed to operate, and compiles to Brainfuck.
+#### Because of this, you will also need a Brainfuck interpreter of your choice
 
 </br>
 
